@@ -1,0 +1,35 @@
+* {
+    margin: 0px 0px;
+    box-sizing: border-box;
+}
+h2 {
+    color: orange;
+}
+img {
+    margin-top: 80px;
+}
+body {
+    background-color: lightblue;
+}
+table,
+th,
+td {
+    border: solid;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 6px;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+.details {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.login {
+    margin-top: 100px;
+    padding: 20px;
+} 
